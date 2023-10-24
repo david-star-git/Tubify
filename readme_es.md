@@ -74,4 +74,4 @@ Nuestra utilidad te permite tomar el control de tu experiencia musical, ofrecien
 
 ## Licencia
 
-Este proyecto está bajo la [Licencia Pública General de GNU, versión 3.0](LICENSE.txt). Puedes encontrar el texto completo de la licencia [aquí](https://www.gnu.org/licenses/gpl-3.0.html).
+Este proyecto está bajo la [Licencia Pública General de GNU, versión 3.0](LICENSE). Puedes encontrar el texto completo de la licencia [aquí](https://www.gnu.org/licenses/gpl-3.0.html).
