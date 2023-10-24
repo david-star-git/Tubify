@@ -74,4 +74,4 @@ Unser Dienstprogramm ermöglicht es Ihnen, die Kontrolle über Ihr Musikerlebnis
 
 ## Lizenz
 
-Dieses Projekt steht unter der [GNU General Public License, Version 3.0](LICENSE.txt). Den vollständigen Lizenztext finden Sie [hier](https://www.gnu.org/licenses/gpl-3.0.html).
+Dieses Projekt steht unter der [GNU General Public License, Version 3.0](LICENSE). Den vollständigen Lizenztext finden Sie [hier](https://www.gnu.org/licenses/gpl-3.0.html).
