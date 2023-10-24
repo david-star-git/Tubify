@@ -75,4 +75,4 @@ Our utility empowers you to take charge of your music experience, offering a mor
 
 ## License
 
-This project is licensed under the [GNU General Public License, version 3.0](LICENSE.txt). You can find the full license text [here](https://www.gnu.org/licenses/gpl-3.0.html).
+This project is licensed under the [GNU General Public License, version 3.0](LICENSE). You can find the full license text [here](https://www.gnu.org/licenses/gpl-3.0.html).
